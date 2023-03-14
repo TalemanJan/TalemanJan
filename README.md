@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taleman Jan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Hi there, I'm Taleman! I'm a beginner programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
+
+In my Github profile, you can find some of my projects that demonstrate my proficiency in web development. I'm always open to feedback and collaboration, so don't hesitate to reach out if you have any suggestions or ideas for projects that we can work on together. Let's create something awesome!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talemanjan&label=Profile%20views&color=0e75b6&style=flat" alt="talemanjan" /> </p>
 
