@@ -49,7 +49,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 
 #
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talemanjan&&theme=dark&hide_border=true" alt="talemanjan" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talemanjan&&theme=dark&hide_border=true" alt="talemanjan" /></p>
 
 
 #
