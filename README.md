@@ -45,7 +45,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 #
 
 <br>
-<p align="left">  <img align="center" height="200px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talemanjan&&theme=dark&hide_border=true&locale=en&layout=compact" alt="talemanjan" /></p> 
+<div align="left">  <img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talemanjan&&theme=dark&hide_border=true&locale=en&layout=compact" alt="talemanjan" /></div> 
 
 #
 <br>
