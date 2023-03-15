@@ -12,7 +12,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **talemanaptech@gmail.com**
+- 📫 How to reach me **https://www.instagram.com/syedtaleman/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
