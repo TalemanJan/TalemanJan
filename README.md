@@ -39,7 +39,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 #
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=talemanjan&label=Profile%20views&color=0e75b6&style=flat" alt="talemanjan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talemanjan&label=Profile%20views&color=0e75b6&style=flat" alt="talemanjan" /> </p>
 
 
 #
