@@ -8,7 +8,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Javascript and React**
+- 🌱 I’m currently learning **Advance Javascript Concepts and React**
 
 - 💬 Ask me about **Javascript**
 
