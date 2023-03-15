@@ -1,10 +1,10 @@
 
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Syed  Taleman Jan</h1>
 
 
+<h3> I'm a beginner programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
 
-<p>  <span font-size="2 rem">Hi</span> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Syed  Taleman Jan I'm a beginner programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
-
-In my Github profile, you can find some of my projects that demonstrate my proficiency in web development. I'm always open to feedback and collaboration, so don't hesitate to reach out if you have any suggestions or ideas for projects that we can work on together. Let's create something awesome!</p>
+In my Github profile, you can find some of my projects that demonstrate my proficiency in web development. I'm always open to feedback and collaboration, so don't hesitate to reach out if you have any suggestions or ideas for projects that we can work on together. Let's create something awesome!</h3>
 
 #
 
