@@ -30,7 +30,7 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 #
 
 
-<p align="center">
+<p align="left">
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talemanjan&theme=dark&hide_border=true"/>
 
