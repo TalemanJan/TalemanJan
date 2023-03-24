@@ -1,5 +1,8 @@
 
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Syed  Taleman Jan</h1>
+<p align="center">
+  <a href="https://github.com/antero9471">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=White&background=White&center=true&vCenter=true&width=650&height=55&lines=HI+It's+Syed+Taleman+Jan+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I've+1%2B+years+of+experience+%F0%9F%93%88;" alt="Syed Taleman jan" width="650" height="55">
+  </a>
 
 
 <h3> I'm a beginner programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
@@ -23,7 +26,6 @@ In my Github profile, you can find some of my projects that demonstrate my profi
 
 <br/>
 <br/>
-
 
 
 
