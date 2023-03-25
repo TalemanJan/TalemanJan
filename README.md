@@ -5,7 +5,7 @@
   </a>
 
 
-<h3> I'm a beginner programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
+<h3> I'm a beginner IN programmer with a strong foundation in HTML, CSS, and JavaScript. My passion for coding started when I realized the potential of building websites and web applications to make an impact in people's lives. I'm a quick learner and I enjoy working on new challenges that allow me to grow and expand my skills.
 
 In my Github profile, you can find some of my projects that demonstrate my proficiency in web development. I'm always open to feedback and collaboration, so don't hesitate to reach out if you have any suggestions or ideas for projects that we can work on together. Let's create something awesome!</h3>
 
